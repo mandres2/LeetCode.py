@@ -47,4 +47,3 @@ class Solution:
                     expand_from(i, j)
 
         return res
-

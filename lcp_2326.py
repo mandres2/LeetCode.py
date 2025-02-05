@@ -77,4 +77,3 @@ class Solution:
                 d_p+=1
                 r,c=r+d[d_p%4][0],c+d[d_p%4][1]
         return matrix
-        
